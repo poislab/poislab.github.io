@@ -1,9 +1,9 @@
 ---
 ---
 
-# poislab's Website
+# Welcome to the Process-Oriented Intervention Science (POIS) Lab!
 
-An engaging 1-3 sentence description of your lab.
+The POIS Lab is directed by Dr. Clarissa Ong in the Clinical Psychological Science Ph.D. program at the University of Louisville. Our research primarily focuses on developing and disseminating process-based personalized treatments for people with diverse needs, backgrounds, and identities in the area of obsessive-compulsive and related presentations. 
 
 {% include section.html %}
 
