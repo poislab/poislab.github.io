@@ -23,8 +23,8 @@
 }
 
 :root {
-  --title: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  --heading: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --title: "Inter Tight", sans-serif;
+  --heading: "Inter Tight", sans-serif;
   --body: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --code: "Source Code Pro", monospace;
   --large: 1 rem;
