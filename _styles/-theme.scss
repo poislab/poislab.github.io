@@ -27,8 +27,8 @@
 
 :root {
   // font families
-  --title: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  --heading: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --title: "Cedarville Cursive", serif;
+  --heading: "Cedarville Cursive", serif;
   --body: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --code: "Source Code Pro", monospace;
 
@@ -44,8 +44,8 @@
   --bold: 600;
 
   // text line spacing
-  --spacing: 1.5;
-  --compact: 1.2;
+  --spacing: 1.4;
+  --compact: 1.3;
 
   // effects
   --rounded: 3px;
